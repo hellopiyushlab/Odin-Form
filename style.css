@@ -21,6 +21,17 @@ html, body {
     background-position: center center;
 }
 
+.logoDiv {
+    background-color: black;
+    opacity: 0.5;
+    height: fit-content;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50%;
+}
+
 .mainDiv {
     width: 63%;
     background-color: var(--backgroundColor);
