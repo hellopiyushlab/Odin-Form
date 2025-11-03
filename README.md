@@ -1,5 +1,3 @@
 # Odin-Form
-Sign Up Form for Odin Project
-
-- [ ] Basic Layout
-- [ ] Form Elements
+This is just a random form I made for practicing and for Odin Project.
+![screenshot](Screenshot.png)
